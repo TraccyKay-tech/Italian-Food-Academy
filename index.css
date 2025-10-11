@@ -40,5 +40,10 @@ h1{
 #home h2{
     padding-top:10%;
     color: rgb(0, 0, 0);
-master
+ home
+}
+.header{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
 }

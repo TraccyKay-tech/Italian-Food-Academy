@@ -1,3 +1,17 @@
-body{
-    font-family: cursive;
+contact{
+    background-color: rgb(63, 63, 63);
+    
+}
+#contact img{
+    width: 250px;
+    height: 40;
+    text-align: center;
+    border-radius: 25%;
+    padding-right: 2%;
+}
+
+.header{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
 }

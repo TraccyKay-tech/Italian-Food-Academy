@@ -1,3 +1,22 @@
 body{
     font-family: cursive;
 }
+.header{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#about{
+    display: flex;
+}
+.about-img img{
+    height: 60vh;
+    border-radius: 25%;
+    padding: 2%;
+}
+.about-info{
+    padding: 5%;
+}
+h1{
+    text-align:center ;
+}

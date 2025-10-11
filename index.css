@@ -1,6 +1,25 @@
 body{
     font-family: cursive;
 }
+ about
+.header{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#about{
+    display: flex;
+}
+.about-img img{
+    height: 60vh;
+    border-radius: 25%;
+    padding: 2%;
+}
+.about-info{
+    padding: 5%;
+}
+h1{
+    text-align:center ;
 #home{
     text-align: center;
     background-image: url("https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg");

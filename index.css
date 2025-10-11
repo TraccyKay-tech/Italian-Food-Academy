@@ -20,3 +20,25 @@ body{
 h1{
     text-align:center ;
 }
+#courses{
+    display: flex;
+    justify-content: space-evenly;
+}
+#courses img{
+    width: auto;
+    margin-top: 10%;
+    padding: auto;
+}
+.one{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 0, 157);
+}
+#courses img,h3{
+    text-align: center;
+    color: cyan;
+}
+#courses img,p{
+    text-align: center;
+    color: lime;
+}

@@ -1,6 +1,7 @@
 body{
     font-family: cursive;
 }
+ about
 .header{
     text-align: center;
     text-transform: capitalize;
@@ -19,4 +20,15 @@ body{
 }
 h1{
     text-align:center ;
+#home{
+    text-align: center;
+    background-image: url("https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg");
+    background-size: cover;
+    height: 100vh;
+    border: 50;
+    background-color: rgba(0, 0, 0, 0.393),rgba(0, 0, 0, 0.402),rgba(0, 0, 0, 0.365);
+}
+#home h2{
+    padding-top:10%;
+    color: rgb(0, 0, 0);
 }

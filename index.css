@@ -1,3 +1,11 @@
 body{
     font-family: cursive;
 }
+#nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(99, 103, 99, 0.925);
+    color: rgb(1, 1, 10);
+    list-style: none;
+    padding: 2%;
+}

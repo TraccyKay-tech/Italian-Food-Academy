@@ -1,6 +1,15 @@
 body{
     font-family: cursive;
 }
+nav
+#nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(99, 103, 99, 0.925);
+    color: rgb(1, 1, 10);
+    list-style: none;
+    padding: 2%;
+
  about
 .header{
     text-align: center;
@@ -31,4 +40,5 @@ h1{
 #home h2{
     padding-top:10%;
     color: rgb(0, 0, 0);
+master
 }

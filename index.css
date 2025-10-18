@@ -1,6 +1,16 @@
 body{
     font-family: cursive;
 }
+nav
+#nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(99, 103, 99, 0.925);
+    color: rgb(1, 1, 10);
+    list-style: none;
+    padding: 2%;
+
+ about
 .header{
     text-align: center;
     text-transform: capitalize;
@@ -19,6 +29,7 @@ body{
 }
 h1{
     text-align:center ;
+ courses
 }
 #courses{
     display: flex;
@@ -41,4 +52,22 @@ h1{
 #courses img,p{
     text-align: center;
     color: lime;
+#home{
+    text-align: center;
+    background-image: url("https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg");
+    background-size: cover;
+    height: 100vh;
+    border: 50;
+    background-color: rgba(0, 0, 0, 0.393),rgba(0, 0, 0, 0.402),rgba(0, 0, 0, 0.365);
+}
+#home h2{
+    padding-top:10%;
+    color: rgb(0, 0, 0);
+ home
+}
+.header{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+master
 }

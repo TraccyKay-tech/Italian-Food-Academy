@@ -29,6 +29,29 @@ nav
 }
 h1{
     text-align:center ;
+ courses
+}
+#courses{
+    display: flex;
+    justify-content: space-evenly;
+}
+#courses img{
+    width: auto;
+    margin-top: 10%;
+    padding: auto;
+}
+.one{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 0, 157);
+}
+#courses img,h3{
+    text-align: center;
+    color: cyan;
+}
+#courses img,p{
+    text-align: center;
+    color: lime;
 #home{
     text-align: center;
     background-image: url("https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg");
@@ -46,4 +69,5 @@ h1{
     text-align: center;
     text-transform: capitalize;
     text-decoration: underline;
+master
 }

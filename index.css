@@ -4,8 +4,25 @@ body{
 #nav ul{
     display: flex;
     justify-content: space-around;
-    background-color: rgba(99, 103, 99, 0.925);
-    color: rgb(1, 1, 10);
+    background-color: darkgrey;
+    color: black;
     list-style: none;
     padding: 2%;
+}
+testimonials{
+    margin: 1%;
+    border-radius: 25% 0 25% 0;
+}
+.testimonials p{
+    padding: 2%;
+}
+.content img{
+width: 20vw;
+height: 180px;
+border-radius: 0 25% 0 25%;
+}
+.testimonials{
+    text-align: center;
+    background-image: linear-gradient(rgba 245,245);
+    display: flex;
 }
